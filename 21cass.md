@@ -80,7 +80,7 @@ This is the <a href="https://docs.google.com/document/d/1tPsc8RDKBJP7R5Z81PYy7vO
 <td valign="top">2:40 pm </td>
 <td valign="top">Applying the 'Think, Check, Submit' framework when publishing your research
 
-- [Think, Check, Submit] https://thinkchecksubmit.org/
+- [Think, Check, Submit](https://thinkchecksubmit.org/)
 - [Scimago journal search](http://www.scimagojr.com/)
 - [Scimago -Shape of Science](http://www.scimagojr.com/shapeofscience/)
 - [Scopus journal analyser](https://www.scopus.com/source/eval.uri)
