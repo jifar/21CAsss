@@ -83,7 +83,7 @@ This is the <a href="https://docs.google.com/document/d/1tPsc8RDKBJP7R5Z81PYy7vO
 - [Scimago -Shape of Science](http://www.scimagojr.com/shapeofscience/)
 - [Scopus journal analyser](https://www.scopus.com/source/eval.uri)
 - [Directory of Open Access Journals (DOAJ)](https://doaj.org/)  </td>
-  <td valign="top">Paula Callan</td>
+  <td valign="top">Richard White</td>
   </tr>
   
   <tr>
@@ -99,22 +99,12 @@ This is the <a href="https://docs.google.com/document/d/1tPsc8RDKBJP7R5Z81PYy7vO
 
 Some example links of academic promotion:
  
-- [Andrew Brown](https://experts.griffith.edu.au/academic/andrew.r.brown)
-- [Creative arts research page](https://www.gccar.com.au/griffith-centre-for-creative-arts-research/members/full/andrew-brown/)
-- [On Research Gate](https://www.researchgate.net/profile/Andrew_Brown11)
-- [On LinkedIn](https://www.linkedin.com/in/andrew-brown-168473/)
-- [Own website](http://explodingart.com/wp/)
+- [Janet Stephenson](https://www.otago.ac.nz/centre-sustainability/staff/otago038792.html)
+- [Google Scholar Profile](https://scholar.google.co.nz/citations?user=A3AcshsAAAAJ&hl=en)
+- [On Research Gate](https://www.researchgate.net/profile/Janet_Stephenson)
+- [Own or project website](https://energycultures.org/author/janet/)
  
-### Other useful links
-
-- [AOASG on Twitter](twitter.com/openaccess_anz)
-- [Jekyll for publishing](https://jekyllrb.com/)
-- [Medium](https://medium.com)
-- [Ghost for Journalism](https://blog.ghost.org/)
-- [WordPress](https://wordpress.com/)
-- [The Conversation (Australia)](https://theconversation.com/au) </td>
- 
-  <td valign="top">Natasha and Ginny  </td>
+  <td valign="top">Justin Farquhar  </td>
   </tr>
   <tr>
   <td valign="top">3:45 pm </td>
@@ -132,17 +122,17 @@ Pre-prints
 - [ASAPbio](http://asapbio.org/)
 - [OSF Preprints](https://osf.io/preprints ) </td>
 
-  <td valign="top">Ginny Barbour  </td>
+  <td valign="top">Justin Farquhar  </td>
   </tr>
   <tr>
   <td valign="top">4:00 pm </td>
   <td valign="top">Pitch your research to a journalist: come prepared to pitch your work!  </td>
-  <td valign="top">Sandra Fry  </td>
+  <td valign="top">Mark Hathaway  </td>
   </tr>
   <tr>
   <td valign="top">4:20 pm</td>
     <td valign="top">Summing up/conclusion  </td>
-  <td valign="top">Natasha and Ginny  </td>
+  <td valign="top">Christy Ballard </td>
   </tr>
    
 </table>
