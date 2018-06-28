@@ -1,13 +1,12 @@
 ## The 21st Century Academic: Smart, Savvy and Social 
-Created by [Dr Virginia Barbour](https://twitter.com/ginnybarbour) [(AOASG)](https://twitter.com/openaccess_anz) and [Natasha Simons](https://twitter.com/n_simons) [(ANDS)](http://www.ands.org.au/) with input from [QUT library](https://www.library.qut.edu.au/) staff and [Creative Commons Australia](http://creativecommons.org.au/).
+Orginial created by [Dr Virginia Barbour](https://twitter.com/ginnybarbour) [(AOASG)](https://twitter.com/openaccess_anz) and [Natasha Simons](https://twitter.com/n_simons) [(ANDS)](http://www.ands.org.au/) with input from [QUT library](https://www.library.qut.edu.au/) staff and [Creative Commons Australia](http://creativecommons.org.au/).
  
-This workshop was delivered on Wednesday 8 February 2017 as part of the 2017 [Brisbane Research Bazaar](https://2017.resbaz.com/brisbane),  at the Centre for Digital Scholarship, [UQ Library](https://www.library.uq.edu.au/), [The University of Queensland](https://www.uq.edu.au/).
+This workshop was delivered on Wednesday 4 July 2018 as part of the 2018 [Otago Research Bazaar](https://mikblack.github.io/resbaz2018/dunedin/),  at the University of Otago, [The University of Otago](https://www.otago.ac.nz/).
  
 ### Required:
 
 - A laptop or mobile device such as a tablet or Chromebook
 - Come prepared to pitch your research to a journalist
-- Please answer [this quiz](https://goo.gl/forms/BESSSxaLoghi7BcD2) before you arrive
  
 ## The workshop
 
