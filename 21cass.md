@@ -39,8 +39,8 @@ In this half-day workshop, you will learn:
  
 <tr>
   <td valign="top">1:30 pm</td>
-  <td valign="top">Welcome<a href="https://github.com/weaverbel/21CAsss/blob/master/ResBaz17workshop%20intro.pptx"> and workshop overview</a> </td> 
-  <td valign="top">Ginny Barbour</td>
+  <td valign="top">Welcome and workshop overview</a> </td> 
+  <td valign="top">Justin Farquhar</td>
 </tr>
  
 <tr>
@@ -57,11 +57,10 @@ In this half-day workshop, you will learn:
  
 <em>Hands-on activities</em>
 
-- Explore DOI search portals
 - Create or enhance your [ORCID](https://orcid.org/) profile and link your works
 - Learn how to use your [ORCID](https://orcid.org/) to create an [Impact Story](https://impactstory.org/) profile</td>
  
-<td valign="top">Natasha Simons</td>
+<td valign="top">Christy Ballard</td>
 </tr>
  
 <tr>
