@@ -80,6 +80,7 @@ This is the <a href="https://goo.gl/nVXGxL">workshop material</a> which you are 
 
 - [Think, Check, Submit](https://thinkchecksubmit.org/)
 
+- [Research Publishing & Impact: Getting Published](https://otago.libguides.com/research_publishing_impact/getting_published)
   <td valign="top">Richard White</td>
   </tr>
   
