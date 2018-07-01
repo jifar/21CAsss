@@ -79,10 +79,7 @@ This is the <a href="https://goo.gl/nVXGxL">workshop material</a> which you are 
 <td valign="top">Applying the 'Think, Check, Submit' framework when publishing your research
 
 - [Think, Check, Submit](https://thinkchecksubmit.org/)
-- [Scimago journal search](http://www.scimagojr.com/)
-- [Scimago -Shape of Science](http://www.scimagojr.com/shapeofscience/)
-- [Scopus journal analyser](https://www.scopus.com/source/eval.uri)
-- [Directory of Open Access Journals (DOAJ)](https://doaj.org/)  </td>
+
   <td valign="top">Richard White</td>
   </tr>
   
