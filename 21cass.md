@@ -69,7 +69,7 @@ In this half-day workshop, you will learn:
   <td valign="top">How to license your work using Creative Commons
  
 If you have something you would like to license using [Creative Commons](http://creativecommons.org.au/), bring it along!
-This is the <a href="https://docs.google.com/document/d/1tPsc8RDKBJP7R5Z81PYy7vO4sPoYFlJGFK9DDkbjpM0/edit?usp=sharing">workshop material</a> which you are welcome to take and re-use!
+This is the <a href="https://goo.gl/nVXGxL">workshop material</a> which you are welcome to take and re-use!
 </td>
  
   <td valign="top">Richard White</td>
