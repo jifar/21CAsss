@@ -92,9 +92,6 @@ This is the <a href="https://goo.gl/nVXGxL">workshop material</a> which you are 
 2. How can your institutional website work for you?
 3. What about blogs and Twitter?
 
-[Presentation here](https://github.com/weaverbel/21CAsss/blob/master/Resbaz%20twitter.pptx)
-
-
 Some example links of academic promotion:
  
 - [Janet Stephenson](https://www.otago.ac.nz/centre-sustainability/staff/otago038792.html)
@@ -107,7 +104,6 @@ Some example links of academic promotion:
   <tr>
   <td valign="top">3:45 pm </td>
   <td valign="top">How to get credit for your peer review activities<br>
-  <a href="https://github.com/weaverbel/21CAsss/blob/master/ResBas_Barbour_Credit_Peer_review.pptx">Presentation on Credit for peer review</a><br>
   
 Check out
   
