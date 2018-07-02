@@ -66,11 +66,17 @@ In this half-day workshop, you will learn:
 <tr>
  
   <td valign="top">2:20 pm</td>
-  <td valign="top">How to license your work using Creative Commons
+  <td valign="top"><strong>How to license your work using Creative Commons</strong>
  
 If you have something you would like to license using [Creative Commons](http://creativecommons.org.au/), bring it along!
-This is the <a href="https://goo.gl/nVXGxL">workshop material</a> which you are welcome to take and re-use!
-</td>
+Tasks:
+1. Go to a journal article and find the information about the Creative Commons licence: https://doi.org/10.1371/journal.pone.0198290
+2. Follow the link to the licence itself, noting what it says you can do with the material and any conditions.
+3. Check out the [different flavours of CC licence](https://goo.gl/NZeqyi).
+4. Do a 
+
+This is a more detailed resource <a href="https://goo.gl/nVXGxL">workshop material</a> which you are welcome to take and re-use
+</td> because it is CC-licnced by Queensland University of Technology.
  
   <td valign="top">Richard White</td>
 </tr>
