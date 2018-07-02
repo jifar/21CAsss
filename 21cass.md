@@ -70,9 +70,9 @@ In this half-day workshop, you will learn:
  
 If you have something you would like to license using [Creative Commons](http://creativecommons.org.au/), bring it along!
 Tasks:
-1. Go to a journal article and find the information about the Creative Commons licence: https://doi.org/10.1371/journal.pone.0198290
-2. Follow the link to the licence itself, noting what it says you can do with the material and any conditions.
-3. Check out the [different flavours of CC licence](https://goo.gl/NZeqyi).
+1. Go to [a journal article](https://doi.org/10.1371/journal.pone.0198290) and find the information about the Creative Commons licence.
+2. From that article, follow the link to the CC licence itself, noting what it says you can do with the material and any conditions.
+3. Next, check out the [different flavours of CC licence](https://goo.gl/NZeqyi).
 4. Do an [image search on Google](https://images.google.com/) and see if you can work out how to filter for openly-licensed images.
 5. Use the [CC licence chooser](https://creativecommons.org/choose/) to select a licence that you can apply to your own work.
 
@@ -83,11 +83,13 @@ This is a more detailed resource <a href="https://goo.gl/nVXGxL">workshop materi
 </tr>
 <tr>
 <td valign="top">2:40 pm </td>
-<td valign="top">Assessing the quality of a publication
-Choose a journal you've been considering submitting to or one you know in your field and applying the 'Think, Check, Submit' framework: 
-- [Think, Check, Submit](https://thinkchecksubmit.org/)
+<td valign="top"><strong>Assessing the quality of a publication</strong>
 
-- [Research Publishing & Impact: Getting Published](https://otago.libguides.com/research_publishing_impact/getting_published)
+Choose a journal you've been considering submitting to or one you know in your field and applying the 'Think, Check, Submit' framework: 
+
+Go to [Think, Check, Submit](https://thinkchecksubmit.org/) and work through the checlist.
+
+For more on assessing publication venues see the Otago Libguide: [Research Publishing & Impact: Getting Published](https://otago.libguides.com/research_publishing_impact/getting_published)
   <td valign="top">Richard White</td>
   </tr>
   
